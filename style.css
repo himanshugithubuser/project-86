@@ -1,0 +1,20 @@
+.body_backgorund 
+{
+    background-image:url(birthday.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas{
+   border: ridge;
+   border-width: 10px;
+   background-image: url(BirthdayImage.jpg);
+}
+
+#btn {
+    background-color: aqua;
+    color: black;
+    width: 100px;
+    height: 30px;
+    margin-top: 25px;
+}
+
